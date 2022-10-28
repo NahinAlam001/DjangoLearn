@@ -1,0 +1,19 @@
+/* body selector */
+body{
+    font-size: 19px;
+}
+/* element selector */
+p{
+    color: purple;
+}
+/* class selector */
+.gray{
+    color: gray;   
+}
+/* id selector */
+#second{
+    font-style: italic;
+}
+*{
+    font-family: monospace;
+}
